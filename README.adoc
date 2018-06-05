@@ -1,0 +1,3 @@
+= New document template
+
+This repository is meant to be https://help.github.com/articles/importing-a-repository-with-github-importer/[imported] (instead of cloned/forked) to create a new document for the Decidim project.
