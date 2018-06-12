@@ -111,5 +111,8 @@ Contribuïdor/a :: Aquí poden considerar-se dos grups de contribuïdors. D'una 
 
 Participant :: Es tracta d'una persona que, sense haver contribuït amb una part de text específica al document, ha fet contribucions de valor, com ara comentaris pertinents, o ha proporcionat criteris, referències o elements de discussió valuosos.
 
-Revisor/a :: Aquesta tasca inclou una lectura minuciosa de tot el text, la correcció d'errors i la proposta de millores. En general, és una feina per encàrrec (sol·licitada a una persona que es considera competent en la matèria), encara que és possible que algú contribueixi fent una revisió sense sol·licitud expressa. En tal cas, la profunditat i qualitat d'aquesta es poden valorar per considerar aquesta persona revisora.footnote:[Aquesta divisió i especificació de nivells d'autoria s'ha copiat directament dels criteris establerts en el projecte http://floksociety.org/[FLOK Society - Buen conocer] (veure http://book.floksociety.org/ec/[el llibre del mateix títol, Barandiaran et al. 2015], pàgines 38-39).]
+Revisor/a :: Aquesta tasca inclou una lectura minuciosa de tot el text, la correcció d'errors i la proposta de millores. En general, és una feina per encàrrec (sol·licitada a una persona que es considera competent en la matèria), encara que és possible que algú contribueixi fent una revisió sense sol·licitud expressa. En tal cas, la profunditat i qualitat d'aquesta es poden valorar per considerar aquesta persona revisora.
+
+Aquesta divisió i especificació de nivells d'autoria s'ha copiat directament dels criteris establerts en el projecte http://floksociety.org/[FLOK Society - Buen conocer] (veure http://book.floksociety.org/ec/[el llibre del mateix títol, Barandiaran et al. 2015], pàgines 38-39).
+
 // end::contributing[]

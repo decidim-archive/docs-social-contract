@@ -111,6 +111,8 @@ Contributors :: Two groups of contributors are considered here. On the one hand,
 
 Participants :: This is someone who has not contributed any specific text to the document but who has made valuable contributions such as observations about the document or provided valuable criteria, references or elements of discussion.
 
-Proofreaders :: Their work includes carefully reading an entire text, correcting errors and suggesting improvements. Such work is generally commissioned (requested from a person regarded as competent in the field), although it is possible for someone to contribute by proofreading a text that has not been explicitly requested. In such cases, the depth and quality of the proofreading process may qualify a person to be considered as a proofreader.footnote:[This division and specification of authorship levels has been copied directly from the criteria established under http://floksociety.org/[the FLOK Society - Buen conocer] (see http://book.floksociety.org/ec/[Barandiaran et al. 2015], pp. 38-39).]
+Proofreaders :: Their work includes carefully reading an entire text, correcting errors and suggesting improvements. Such work is generally commissioned (requested from a person regarded as competent in the field), although it is possible for someone to contribute by proofreading a text that has not been explicitly requested. In such cases, the depth and quality of the proofreading process may qualify a person to be considered as a proofreader.
+
+This division and specification of authorship levels has been directly copied from the criteria established under http://floksociety.org/[the FLOK Society - Buen conocer] (see http://book.floksociety.org/ec/[Barandiaran et al. 2015], pp. 38-39).
 
 // end::contributing[]

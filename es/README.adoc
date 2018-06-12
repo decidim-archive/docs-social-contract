@@ -111,6 +111,8 @@ Contribuidor/a :: Aquí pueden considerarse dos grupos de contribuidores. Por un
 
 Participante :: Se trata de una persona que, sin haber contribuido con una parte de texto específica al documento, ha realizado contribuciones de valor, como comentarios pertinentes al mismo o ha proporcionado criterios, referencias o elementos de discusión valiosos.
 
-Revisor/a :: Esta labor incluye una lectura minuciosa de todo el texto, la corrección de errores y la propuesta de mejoras al mismo. Por lo general, es un trabajo por encargo (solicitado a una persona que se considera competente en la materia), aunque es posible que alguien contribuya haciendo una revisión sin solicitud expresa. En tal caso, la profundidad y calidad de la misma pueden calificar para considerar a esta persona revisora.footnote:[Esta división y especificación de niveles de autoría se ha copiado directamente de los criterios establecidos en el proyecto http://floksociety.org/[FLOK Society - Buen conocer] (ver http://book.floksociety.org/ec/[el libro del mismo título, Barandiaran et al. 2015], páginas 38-39).]
+Revisor/a :: Esta labor incluye una lectura minuciosa de todo el texto, la corrección de errores y la propuesta de mejoras al mismo. Por lo general, es un trabajo por encargo (solicitado a una persona que se considera competente en la materia), aunque es posible que alguien contribuya haciendo una revisión sin solicitud expresa. En tal caso, la profundidad y calidad de la misma pueden calificar para considerar a esta persona revisora.
+
+Esta división y especificación de niveles de autoría se ha copiado directamente de los criterios establecidos en el proyecto http://floksociety.org/[FLOK Society - Buen conocer] (ver http://book.floksociety.org/ec/[el libro del mismo título, Barandiaran et al. 2015], páginas 38-39).
 
 // end::contributing[]
