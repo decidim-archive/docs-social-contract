@@ -7,7 +7,7 @@ name: template
 # menus and navigation links. It's probably the same as README.adoc's
 # :_title: attribute.
 # Example: "My Awesome Document" (quotes not needed)
-title: Template
+title: Plantilla
 
 # MANDATORY. "en", "es" or "ca". If more than one revision of the document is
 # going to be shown, then append the revision as it appears in README.adoc's
