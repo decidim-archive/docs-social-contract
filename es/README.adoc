@@ -95,9 +95,9 @@ include::../locale/attributes.adoc[]
 | Historia del documento                | {_dochistory}
 | Cómo se cita                          | {_citation}
 | Copyleft
-a| {_copyleft}, bajo las licencias {_license_1}
-ifdef::_license_2[y {_license_2}]
-.
+a| {_copyleft}, bajo
+ifndef::_license_2[una licencia {_license_1}.]
+ifdef::_license_2[las licencias {_license_1} y {_license_2}.]
 
 [discrete]
 ===== Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC-BY-SA-4.0)

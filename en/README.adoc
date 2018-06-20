@@ -105,9 +105,9 @@ This document is part of the https://docs.decidim.org[Decidim documentation].
 | Document history                      | {_dochistory}
 | How to cite                           | {_citation}
 | Copyleft
-a| {_copyleft}, under a {_license_1} license
-ifdef::_license_2[and a {_license_2} license]
-.
+a| {_copyleft}, under a
+ifndef::_license_2[{_license_1} license.]
+ifdef::_license_2[{_license_1} license and a {_license_2} license.]
 
 [discrete]
 ===== Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0)
