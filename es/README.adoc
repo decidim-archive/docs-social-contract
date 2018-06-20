@@ -76,9 +76,9 @@ include::../locale/attributes.adoc[]
 
 // end::metadata[]
 
-// tag::metadata-table[]
-
 = Metadatos
+
+// tag::metadata-table[]
 
 [cols="20,80"]
 |===
