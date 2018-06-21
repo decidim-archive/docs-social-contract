@@ -1,5 +1,7 @@
 = Criteris d'autoria i com participar en aquest document
 
+// tag::contents[]
+
 Aquest document està obert a la participació.
 Si tens familiaritat amb Git i saps què és un _Pull Request_ pots clonar
 ifdef::_public_repo_url[{_public_repo_url}[el repositori públic]]
@@ -39,3 +41,5 @@ En general, és una feina per encàrrec (sol·licitada a una persona que es cons
 En tal cas, la profunditat i qualitat d'aquesta es poden valorar per considerar aquesta persona revisora.
 
 Aquesta divisió i especificació de nivells d'autoria s'ha copiat directament dels criteris establerts en el projecte http://floksociety.org/[FLOK Society - Buen conocer] (veure http://book.floksociety.org/ec/[el llibre del mateix títol, Barandiaran et al. 2015], pàgines 38-39).
+
+// end::contents[]

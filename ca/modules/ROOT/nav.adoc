@@ -1,0 +1,13 @@
+// Add to the following list cross references to all the contents you want
+// listed in the navigation menu for this document.
+.Continguts
+* xref:introduction.adoc[Introducció]
+* Segona secció
+** Subsecció A
+** Subsecció B
+* Tercera secció
+
+.Recursos
+* xref:metadata.adoc[Metadades]
+* xref:contributing.adoc[Criteris d'autoria i com participar en aquest document]
+* xref:single-page.adoc[Vista en pàgina única]

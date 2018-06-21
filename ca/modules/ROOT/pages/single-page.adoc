@@ -1,14 +1,26 @@
-include::README.adoc[tag=metadata]
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
 
-// (1/4) CHANGE TOC POSITION AND LEVELS, IF NEEDED.
+include::{partialsdir}/README.adoc[tag=metadata]
+
+// (1/4) CHANGE TOC POSITION AND LEVELS, IF NEEDED. ALSO :sectnums:
+ifndef::env-site,env-github[]
 :toc: left
+endif::[]
 :toclevels: 2
-
 :sectnums!:
-include::README.adoc[tag=metadata-table]
+
+== Metadades
+
+include::{partialsdir}/README.adoc[tag=metadata-table]
+
 <<<
 
-include::README.adoc[tag=contributing]
+== Criteris d'autoria i com participar en aquest document
+
+include::{partialsdir}/CONTRIBUTING.adoc[tag=contents]
+
 <<<
 
 :leveloffset: +1
@@ -19,6 +31,8 @@ include::README.adoc[tag=contributing]
 :sectnums:
 // (3/4) ADD BELOW THE LIST OF REGULAR CHAPTERS OR SECTIONS. IMPORTANT: PUT A
 // BLANK LINE BETWEEN INCLUDES.
+
+include::introduction.adoc[]
 
 
 [appendix]

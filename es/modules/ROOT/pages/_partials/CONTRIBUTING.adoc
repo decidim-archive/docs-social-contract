@@ -1,5 +1,7 @@
 = Criterios de autoría y cómo participar en este documento
 
+// tag::contents[]
+
 Este documento está abierto a la participación.
 Si tienes familiaridad con Git y sabes qué es un _Pull Request_ puedes clonar
 ifdef::_public_repo_url[{_public_repo_url}[el repositorio público]]
@@ -38,3 +40,5 @@ Por lo general, es un trabajo por encargo (solicitado a una persona que se consi
 En tal caso, la profundidad y calidad de la misma pueden calificar para considerar a esta persona revisora.
 
 Esta división y especificación de niveles de autoría se ha copiado directamente de los criterios establecidos en el proyecto http://floksociety.org/[FLOK Society - Buen conocer] (ver http://book.floksociety.org/ec/[el libro del mismo título, Barandiaran et al. 2015], páginas 38-39).
+
+// end::contents[]

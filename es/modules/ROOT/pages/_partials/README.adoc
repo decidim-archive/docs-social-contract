@@ -1,6 +1,6 @@
 // tag::metadata[]
 :lang: es
-include::../locale/attributes.adoc[]
+include::attributes.adoc[]
 
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/decidim/docs-features'.
