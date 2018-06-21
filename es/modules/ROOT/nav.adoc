@@ -1,0 +1,13 @@
+// Add to the following list cross references to all the contents you want
+// listed in the navigation menu for this document.
+.Contenidos
+* xref:introduction.adoc[Introducción]
+* Segunda sección
+** Subsección A
+** Subsección B
+* Tercera sección
+
+.Recursos
+* xref:metadata.adoc[Metadatos]
+* xref:contributing.adoc[Criterios de autoría y como participar en este documento]
+* xref:single-page.adoc[Vista en página única]
