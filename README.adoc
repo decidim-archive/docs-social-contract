@@ -1,4 +1,6 @@
 // tag::metadata[]
+:lang: en
+
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/decidim/docs-features'.
 :_public_repo_url:
@@ -73,19 +75,15 @@
 
 // end::metadata[]
 
-// tag::page-title[]
-
 = {doctitle}
 
 {_summary}
 
 This document is part of the https://docs.decidim.org[Decidim documentation].
 
-// end::page-title[]
+== Metadata
 
 // tag::metadata-table[]
-
-== Metadata
 
 [cols="20,80"]
 |===
@@ -119,10 +117,6 @@ You are permitted to copy, distribute and/or modify this document under the term
 
 // end::metadata-table[]
 
-// tag::contributing[]
-
 == How to contribute
 
 See link:./CONTRIBUTING.adoc[Contributing].
-
-// end::contributing[]

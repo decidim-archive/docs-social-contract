@@ -1,5 +1,7 @@
 = Authorship criteria and how to contribute to this document
 
+// tag::contents[]
+
 This document is open to participation.
 If you are familiar with Git and Pull Requests you can clone
 ifdef::_public_repo_url[{_public_repo_url}[the public repository]]
@@ -37,3 +39,5 @@ Such work is generally commissioned (requested from a person regarded as compete
 In such cases, the depth and quality of the proofreading process may qualify a person to be considered as a proofreader.
 
 This division and specification of authorship levels has been directly copied from the criteria established under http://floksociety.org/[the FLOK Society - Buen conocer] (see http://book.floksociety.org/ec/[Barandiaran et al. 2015], pp. 38-39).
+
+// end::contents[]
