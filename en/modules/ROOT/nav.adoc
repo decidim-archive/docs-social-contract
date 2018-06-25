@@ -1,5 +1,10 @@
-// Add to the following list cross references to all the contents you want
+// Add to the following lists cross references to all the pages you want to see
 // listed in the navigation menu for this document.
+.Information
+* xref:doc-info.adoc[Document information]
+* xref:contributing.adoc[Authorship criteria and how to contribute to this document]
+
+
 .Contents
 * xref:introduction.adoc[Introduction]
 * Second section
@@ -7,7 +12,6 @@
 ** Subsection B
 * Third section
 
-.Resources
-* xref:metadata.adoc[Metadata]
-* xref:contributing.adoc[Authorship criteria and how to contribute to this document]
-* xref:single-page.adoc[Single page view]
+.Other formats
+* xref:single-page.adoc[Single page (HTML)]
+* [.pdf-download-button]#PDF#
