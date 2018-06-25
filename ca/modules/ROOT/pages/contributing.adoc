@@ -1,4 +1,5 @@
 = Criteris d'autoria i com participar en aquest document
+
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]

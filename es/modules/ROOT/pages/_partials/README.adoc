@@ -1,79 +1,74 @@
 // tag::metadata[]
 :lang: es
 include::attributes.adoc[]
-
+//
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/decidim/docs-features'.
 :_public_repo_url:
-
+//
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:_title:
-
-// OPTIONAL. If not blank, it must begin with ": " (colon followed by a blank
-// space). In web format, it appears as part of the same heading of level 1 than
-// the title. In PDF format, it appears in the title page, just below the title.
+:doctitle:
+//
+// OPTIONAL. Subtitle of the document.
 :_subtitle:
-
-// It's usually not necessary to change this field.
-:doctitle: {_title}{_subtitle}
-
+//
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
 :revnumber: 0.1
-
+//
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically
 // inserted in this field every time the formatted document (web or PDF) is
 // generated. It's also possible to manually write here a fixed date.
 :revdate: {docdate}
-
-// OPTIONAL. See this field description in section "Authorship criteria ..."
-// below.
-:_editors:
-
-// MANDATORY. See this field description in section "Authorship criteria ..."
+//
+// MANDATORY. See this field description in file CONTRIBUTING.adoc.
 // below.
 :authors: Decidim Team
-
-// OPTIONAL. See this field description in section "Authorship criteria ..."
+//
+// OPTIONAL. See this field description in file CONTRIBUTING.adoc.
+// below.
+:_editors:
+//
+// OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
 :_contributors:
-
-// OPTIONAL. See this field description in section "Authorship criteria ..."
+//
+// OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
 :_proofreaders:
-
-// OPTIONAL. See this field description in section "Authorship criteria ..."
+//
+// OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
 :_participants:
-
+//
 // MANDATORY. Summary of the contents of the document. This would correspond to
-// the "abstract" in an academic publication.
+// the "abstract" in an academic publication. Do not intercalate empty lines.
 :_summary:
-
+//
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
 :keywords: decidim, democracia participativa, software libre, código abierto, ciudades, organizaciones
-
+//
 // OPTIONAL. Document's history.
 :_dochistory:
-
+//
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
-// URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {_title},
-// {authors}, {doctitle}, {revnumber} or {docyear} can be used here.
+// URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
+// {authors}, {_subtitle}, {revnumber} or {docyear} can be used here.
 :_citation: {authors}, {docyear}, {doctitle}
-
+//
 // MANDATORY. Copyright ownership.
 :_copyleft: Ajuntament de Barcelona y personas autoras del texto
-
+//
 // MANDATORY. Distribution license.
 :_license_1: Creative Commons Reconocimiento-CompartirIgual Internacional 4.0 (CC-BY-SA-4.0)
-
+//
 // OPTIONAL. Alternative distribution license.
 :_license_2: Licencia de Documentación Libre de GNU (GFDL-1.3-or-later)
-
+//
 // end::metadata[]
 
 = Metadatos
@@ -82,25 +77,44 @@ include::attributes.adoc[]
 
 [cols="20,80"]
 |===
-| Título                                | {_title}
+| Título                                | {doctitle}
+ifeval::["{_subtitle}" != ""]
+| Subtítulo                             | {_subtitle}
+endif::[]
 | Versión                               | {revnumber}
+ifeval::["{_revdate}" != ""]
 | Fecha                                 | {revdate}
+endif::[]
+ifeval::["{_editors}" != ""]
 | Edición                               | {_editors}
+endif::[]
 | Autoría                               | {authors}
+ifeval::["{_contributors}" != ""]
 | Contribución                          | {_contributors}
+endif::[]
+ifeval::["{_proofreaders}" != ""]
 | Revisión                              | {_proofreaders}
+endif::[]
+ifeval::["{_participants}" != ""]
 | Participación                         | {_participants}
+endif::[]
 | Resumen                               | {_summary}
 | Palabras clave                        | {keywords}
+ifeval::["{_history}" != ""]
 | Historia del documento                | {_dochistory}
+endif::[]
 | Cómo se cita                          | {_citation}
 | Copyleft
 a| {_copyleft}, bajo
-ifndef::_license_2[una licencia {_license_1}.]
-ifdef::_license_2[las licencias {_license_1} y {_license_2}.]
+ifeval::["{_license_2}" == ""]
+una licencia {_license_1}.
+endif::[]
+ifeval::["{_license_2}" != ""]
+las licencias {_license_1} y {_license_2}.
+endif::[]
 
 [discrete]
-===== Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC-BY-SA-4.0)
+==== Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC-BY-SA-4.0)
 
 Usted es libre de copiar y redistribuir el material en cualquier medio o formato, remezclar, transformar y crear a partir del material, para cualquier finalidad, incluso comercial.
 El licenciador no puede revocar estas libertades mientras cumpla con los términos de la licencia.
@@ -110,7 +124,7 @@ No hay restricciones adicionales, no puede aplicar términos legales o medidas t
 Puede encontrar las licencias completas en los siguientes enlaces: https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES.
 
 [discrete]
-===== GFDL: Licencia de Documentación Libre de GNU (GFDL-1.3-or-later)
+==== GFDL: Licencia de Documentación Libre de GNU (GFDL-1.3-or-later)
 
 Se concede permiso para copiar, distribuir y/o modificar este documento bajo los términos de la licencia de documentación libre GNU, versión 1.3 o cualquier otra versión posterior publicada por la Free Software Foundation; sin secciones invariantes ni textos de cubierta delantera, tampoco textos de contraportada.
 Una copia de la licencia se puede encontrar en http://www.gnu.org/copyleft/fdl.html.

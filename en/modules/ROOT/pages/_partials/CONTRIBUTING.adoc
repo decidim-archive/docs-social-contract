@@ -4,11 +4,18 @@
 
 This document is open to participation.
 If you are familiar with Git and Pull Requests you can clone
-ifdef::_public_repo_url[{_public_repo_url}[the public repository]]
+ifdef::_public_repo_url[]
+ifeval::["{_public_repo_url}" != ""]
+{_public_repo_url}[the public repository]
+endif::[]
+ifeval::["{_public_repo_url}" == ""]
+the public repository
+endif::[]
+endif::[]
 ifndef::_public_repo_url[the public repository]
 and start contributing.
 Otherwise, you can contact us at hola@decidim.org.
-Please, have a look at our https://docs.decidim.org/editing-guide/en/latest/index.html[Documentation Editing Guide].
+Please, have a look at our https://docs.decidim.org/docs-authoring/en/latest/index.html[Documentation Authoring and Publishing Guide].
 
 Your contributions may be of varying nature.
 The different authorship levels and criteria are stated below:

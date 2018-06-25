@@ -4,11 +4,18 @@
 
 Aquest document està obert a la participació.
 Si tens familiaritat amb Git i saps què és un _Pull Request_ pots clonar
-ifdef::_public_repo_url[{_public_repo_url}[el repositori públic]]
+ifdef::_public_repo_url[]
+ifeval::["{_public_repo_url}" != ""]
+{_public_repo_url}[el repositori públic]
+endif::[]
+ifeval::["{_public_repo_url}" == ""]
+el repositori públic
+endif::[]
+endif::[]
 ifndef::_public_repo_url[el repositori públic]
 i començar a fer contribucions.
 Si no, pots escriure'ns a hola@decidim.org.
-Si us plau, consulta la nostra https://docs.decidim.org/editing-guide/ca/latest/index.html[Guia d'edició de documentació].
+Si us plau, consulta la nostra https://docs.decidim.org/docs-authoring/ca/latest/index.html[Guia d'edició i publicació de documentació].
 
 Les contribucions poden ser de diversa naturalesa.
 Els diferents nivells i criteris d'autoria s'expliquen a continuació:
