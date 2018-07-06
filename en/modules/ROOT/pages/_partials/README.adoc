@@ -7,10 +7,10 @@
 //
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle:
+:doctitle: Social Contract
 //
 // OPTIONAL. Subtitle of the document.
-:_subtitle:
+:_subtitle: Code of democratic guarantees
 //
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
