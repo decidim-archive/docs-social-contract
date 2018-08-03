@@ -4,14 +4,14 @@ include::attributes.adoc[]
 //
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/decidim/docs-features'.
-:_public_repo_url:
+:_public_repo_url: https://github.com/decidim/docs-social-contract
 //
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle:
+:doctitle: Contrato social de Decidim
 //
 // OPTIONAL. Subtitle of the document.
-:_subtitle:
+:_subtitle: Código de garantías democráticas
 //
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
@@ -33,7 +33,7 @@ include::attributes.adoc[]
 //
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_contributors:
+:_contributors: Carol Romero, Arnau Monterde, Andrés Lucena, Antonio Calleja, Pablo Aragón and Xabier E. Barandiaran.
 //
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
@@ -45,7 +45,7 @@ include::attributes.adoc[]
 //
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication. Do not intercalate empty lines.
-:_summary:
+:_summary: Este documento define los principios que cualquier integrante del proyecto Decidim (sea a título individual, colectivo o institucional) se compromete a seguir: 1. Software libre y contenido abierto: Decidim siempre será libre y abierto a la colaboración, sin obstáculos legales o legales para su uso, copia y modificación. Para garantizar esto usamos licencias libres para el código informático, el contenido (textos, imágenes, etc.) y para los datos. Esto significa que Decidim siempres será auditable, collaborable, transparente, re-apropiable y fiable, siendo esto esencial para una infraestructura democrática. 2. El contenido de la participación siempre será transparente, trazable e integral. Esto significa que todo el contenido debe ser accesible para descarga, simpre debe quedar constancia de qué pasó con cada propuesta realizada, quién o quienes la crearon, en qué decisión fue incorporada o rechazada y porqué. El contenido debe mostrarse sin ser manipulado, cualquier modificación (si es necesaria) debe quedar registrada y debe ser accesible y auditable 3. La plataforma ofrecerá igualdad de oportunidades de inicio a todos los objetos participativos (propuestas, debates, etcétera) para que se puedan conocer, debatir, comentar, evaluar o tratar sin que exista discriminación de ningún tipo. 4. Las personas participantes deberán de poder preservar su privacidad y datos personales al tiempo que sus derechos democráticos son verificables. 5. La plataforma debe garantizar la calidad democrática, la no discriminación y la igualdad de oportunidades para cada participante y propuesta. 6. La plataforma debe cumplir con los estándares de accesibilidad, su uso debe facilitar la integración de la participación digital y presencial y las organizaciones que la utilicen deben de poner en marcha sistemas de mediación digital y formación para la participación.
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
@@ -53,7 +53,7 @@ include::attributes.adoc[]
 :keywords: decidim, democracia participativa, software libre, código abierto, ciudades, organizaciones
 //
 // OPTIONAL. Document's history.
-:_dochistory:
+:_dochistory: Este documento fue originalmente desarrollado como contenido del convenio de colaboración entre el Ayuntamiento de Barcelona y el consorcio de ayuntamientos catalanes Localret, firmado en Barcelona el día 1 de Febrero de 2017 y al que dicho día se adherieron los ayuntamientos de Hospitalet de Llobregat, Terrassa, Sabadell, Badalona, Gavà y Sant Cugat del Vallès. El título original de aquél convenio fue "Código de garantías democrácticas y colaboración abierta". Más adelante el documento tomó el título de "contrato social" y se extendió también a contratos públicos con proveedores de servicios y desarrolladores de la plataforma y a la comunidad Decidim en su conjunto.
 //
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
 // URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
