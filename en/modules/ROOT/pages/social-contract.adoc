@@ -55,11 +55,11 @@ Equality in political participation of citizens is one of the fundamental princi
 
 The confidentiality and privacy of the personal data that people might provide to participate in any of the functionalities and/or possibilities of participation that the platform provides shall be guaranteed at all times. In no case shall personal data be transferred to third parties. Personal data will not be used beyond what is strictly necessary for the purposes of user registration and improvements on the usability of the platform. Whenever platform technology makes it possible, the expression of political preferences or will in decision-making processes shall remain inaccessible even for the administrator of the platform or the server/s that host it.
 
-== Accountability and responsability
+== Accountability and responsibility
 
 A commitment to citizens shall be taken to respond to all queries and contributions in the shortest time possible. A commitment shall also be adopted to follow-up the results of participatory processes and to respond to those demands which specifically request it. Finally, a commitment shall be taken to study the incorporation of indicators to monitor the participation processes once they are finalized, in order to systematically evaluate its implementation.
 
-== Continuous improvement and inter-institutional colaboration
+== Continuous improvement and inter-institutional collaboration
 
 Mechanisms for periodic review and evaluation will be provided in order to facilitate the continuous improvement of the platform.
 
