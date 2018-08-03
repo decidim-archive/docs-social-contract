@@ -3,7 +3,7 @@
 //
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/decidim/docs-features'.
-:_public_repo_url:
+:_public_repo_url: https://github.com/decidim/docs-social-contract
 //
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
@@ -32,7 +32,7 @@
 //
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_contributors:
+:_contributors: Carol Romero, Arnau Monterde, Andrés Lucena, Antonio Calleja, Pablo Aragón and Xabier E. Barandiaran.
 //
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
@@ -44,15 +44,15 @@
 //
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication. Do not intercalate empty lines.
-:_summary: This document defines the principles that all members of the Decidim project (individual, collective or institutional) are committed to follow.
+:_summary: This document defines the principles that all members of the Decidim project (individual, collective or institutional) are committed to follow. 1. Free software and open content: Decidim will  always remain free and open to collaboration, without legal or technical obstacles for the use, copy and modification. To ensure this we use a set of licenses: Affero GPLv3 for the code, CreativeCommons By-SA for the content (text, images, design, etc.) and Open Access Database License for data. This means that Decidim will always remain auditable, collaborable, transparent, appropriable and trustworthy, all of which is fundamental for a democratic infrastructure. 2. Transparency, traceability and integrity: the content of participation will always remain transparent, traceable and integral. This means that all the content must be accessible and downloadable, it should always be known what happens with each proposal, its origin, in which result or decision is was incorporated or why it was rejected or left behind, and the content needs to be displayed without been manipulated, any modification (if required) must be registered and be accessible and auditable. 3. Equal opportunities: “The platform will offer equal starting opportunities to all participatory objects (proposals, debates, etc.) for them to be viewed, discussed, commented, evaluated or treated without discrimination of any kind” (direct quote from the contract). 4. Privacy with verification: participants must retain privacy of their personal data combined with verification. Personal data should never be displayed, nor sold or transferred to third parties while, at the same time, the unicity and democratic rights of participants must be preserved (meaning there cannot be two verified users corresponding to the same individual with democratic rights and all participants with such rights must be verifiable). 5. Democratic quality and guarantees: the platform must guarantee the democratic quality, the non-discrimination and equal opportunities for each participant and proposal. 6. Inclusiveness and multilayerness: the platform must comply with accessibility standards, its use must favour the integration of online and offline participation and organizations must deploy the means for mediation and training of participants.
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
-:keywords: decidim, participatory democracy, free software, open source, cities, organizations
+:keywords: social contract, Decidim, participatory democracy, free software.
 //
 // OPTIONAL. Document's history. Do not intercalate empty lines.
-:_dochistory:
+:_dochistory: The core of this document was first prepared as the content of the inter-institutional agreement that Barcelona City Council signed with Localret consortia of Catalan city councils on February the 1st 2017. On that day the following city council endorsed the agreement: L’Hospitalet de Llobregat, Terrassa, Sabadell, Badalona, Gavà y Sant Cugat del Vallès. The original title of this first agreement was "Code of democratic guarantees and open collaboration". It was latter simply called "social contract" and extended to public contracts with service providers and developers of the platform and the to the Decidim community as a whole.
 //
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
 // URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
