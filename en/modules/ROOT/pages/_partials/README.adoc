@@ -44,7 +44,7 @@
 //
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication. Do not intercalate empty lines.
-:_summary:
+:_summary: This document defines the principles that all members of the Decidim project (individual, collective or institutional) are committed to follow.
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
