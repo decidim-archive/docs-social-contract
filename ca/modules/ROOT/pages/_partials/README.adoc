@@ -4,14 +4,14 @@ include::attributes.adoc[]
 //
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/decidim/docs-features'.
-:_public_repo_url:
+:_public_repo_url: https://github.com/decidim/docs-social-contract
 //
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle:
+:doctitle: Contracte social de Decidim
 //
 // OPTIONAL. Subtitle of the document.
-:_subtitle:
+:_subtitle: Codi de garanties democràtiques
 //
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
@@ -33,7 +33,7 @@ include::attributes.adoc[]
 //
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
-:_contributors:
+:_contributors: Carol Romero, Arnau Monterde, Andrés Lucena, Antonio Calleja, Pablo Aragón and Xabier E. Barandiaran.
 //
 // OPTIONAL. See this field description in file CONTRIBUTING.adoc.
 // below.
@@ -45,15 +45,15 @@ include::attributes.adoc[]
 //
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication. Do not intercalate empty lines.
-:_summary:
+:_summary: Aquest document defineix els principis que qualsevol integrant del projecte Decidim (sigui a títol individual, col·lectiu o institucional) es compromet a seguir: 1. Programari lliure i contingut obert: Decidim sempre serà lliure i obert a la col·laboració, sense obstacles legals per al seu ús , còpia i modificació. Per garantir això fem servir llicències lliures per al codi informàtic, el contingut (textos, imatges, etc.) i per a les dades. Això vol dir que Decidim sempre serà auditable, col·laborable, transparent, re-apropiable i fiable, sent això essencial per a una infraestructura democràtica. 2. El contingut de la participació sempre serà transparent, traçable i integral. Això vol dir que tot el contingut ha de ser accessible per a descàrrega, sempre ha de quedar constància de què va passar amb cada proposta realitzada, qui o quins la van crear, a quina decisió va ser incorporada o rebutjada i per què. El contingut ha de mostrar-se sense ser manipulat, qualsevol modificació (si és necessària) ha de quedar registrada i ha de ser accessible i auditable 3. La plataforma oferirà igualtat d'oportunitats d'inici a tots els objectes participatius (propostes, debats, etcètera) perquè es puguin conèixer, debatre, comentar, avaluar o tractar sense que hi hagi discriminació de cap tipus. 4. Les persones participants hauran de poder preservar la seva privacitat i dades personals alhora que els seus drets democràtics són verificables. 5. La plataforma ha de garantir la qualitat democràtica, la no discriminació i la igualtat d'oportunitats per a cada participant i proposta. 6. La plataforma ha de complir amb els estàndards d'accessibilitat, el seu ús ha de facilitar la integració de la participació digital i presencial i les organitzacions que la utilitzin han de posar en marxa sistemes de mediació digital i formació per a la participació.
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
 :keywords: decidim, democràcia participativa, programari lliure, codi obert, ciutats, organitzacions
 //
-// OPTIONAL. Document's history. Do not intercalate empty lines.
-:_dochistory:
+// OPTIONAL. Document's history.
+:_dochistory: Aquest document va ser originalment desenvolupat com a contingut del conveni de col·laboració entre l'Ajuntament de Barcelona i el consorci d'ajuntaments catalans Localret, signat a Barcelona el dia 1 de Febrer de 2017 i al qual es van adherir els ajuntaments de l'Hospitalet de Llobregat, Terrassa, Sabadell, Badalona, Gavà i Sant Cugat del Vallès. El títol original d'aquell conveni va ser "Codi de garanties democràtiques i col·laboració oberta". Més endavant el document va prendre el títol de "contracte social" i es va estendre també a contractes públics amb proveïdors de serveis i desenvolupadors de la plataforma i a la comunitat Decidim en el seu conjunt.
 //
 // MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
 // URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {doctitle},
@@ -64,7 +64,7 @@ include::attributes.adoc[]
 :_copyleft: Ajuntament de Barcelona i persones autores del text
 //
 // MANDATORY. Distribution license.
-:_license_1: Creative Commons Reconeixement-CompartirIgual Internacional 4.0 (CC-BY-SA-4.0)
+:_license_1: Creative Commons Reconeixement-CompartirIgual 4.0 Internacional (CC-BY-SA-4.0)
 //
 // OPTIONAL. Alternative distribution license.
 :_license_2: Llicència de Documentació Lliure de GNU (GFDL-1.3-or-later)
