@@ -1,4 +1,4 @@
-= Contracte Social del Decidim
+= Contracte Social de Decidim
 :experimental:
 :icons: font
 :page-partial:
