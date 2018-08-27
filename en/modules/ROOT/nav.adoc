@@ -4,13 +4,8 @@
 * xref:doc-info.adoc[Document information]
 * xref:contributing.adoc[Authorship criteria and how to contribute to this document]
 
-
 .Contents
-* xref:introduction.adoc[Introduction]
-* Second section
-** Subsection A
-** Subsection B
-* Third section
+* xref:social-contract.adoc[Decidim's Social Contract]
 
 .Other formats
 * xref:single-page.adoc[Single page (HTML)]
