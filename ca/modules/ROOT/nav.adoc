@@ -5,11 +5,7 @@
 * xref:contributing.adoc[Criteris d'autoria i com participar en aquest document]
 
 .Continguts
-* xref:introduction.adoc[Introducció]
-* Segona secció
-** Subsecció A
-** Subsecció B
-* Tercera secció
+* xref:social-contract.adoc[Contracte Social de Decidim]
 
 .Altres formats
 * xref:single-page.adoc[Pàgina única (HTML)]
