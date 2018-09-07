@@ -7,10 +7,10 @@
 //
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle:
+:doctitle: Social Contract
 //
 // OPTIONAL. Subtitle of the document.
-:_subtitle:
+:_subtitle: Code for democratic guarantees and open collaboration
 //
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
@@ -44,7 +44,7 @@
 //
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication. Do not intercalate empty lines.
-:_summary:
+:_summary: This is the social contract that all members of the Decidim project are committed to follow. The use and development of the Decidim platform by an institution or social group of any kind involves the full and integral acceptance of, and commitment to, this social-contract.  
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
