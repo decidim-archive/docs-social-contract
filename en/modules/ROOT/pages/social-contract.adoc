@@ -17,9 +17,9 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 Code for democratic guarantees and open collaboration
 
-This is the social contract that all members of the Decidim project are committed to follow.
+This is the social contract that all members of the Decidim community are committed to follow.
 
-The use and development of the Decidim platform by an institution or social group of any kind involves the full and integral acceptance of, and commitment to, this social-contract.
+By signing this Social Contract, any individual, institution or social group of any kind, commits to fulfill the principles established here when using, developing and participating in the community of Decidim.
 
 == Free software and open content
 
