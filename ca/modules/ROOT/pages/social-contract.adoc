@@ -15,9 +15,9 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 Codi de garanties democràtiques i de col·laboració oberta
 
-Aquest és el contracte social que tots el membres del projecte Decidim es comprometen a seguir.
+Aquest és el contracte social que tots el membres de la comunitat Decidim es comprometen a seguir.
 
-La utilització de la plataforma Decidim per part de qualsevol ajuntament o qualsevol altre ens municipal o supramunicipal, així com altres organitzacions, comporta l'assumpció total i íntegra d'aquest codi.
+En signar aquest contracte social, qualsevol persona, institució o grup social de qualsevol tipus, es compromet a complir amb els principis aquí establerts en utilitzar, desenvolupar i participar en la comunitat de Decidim.
 
 == Programari lliure i continguts oberts
 
