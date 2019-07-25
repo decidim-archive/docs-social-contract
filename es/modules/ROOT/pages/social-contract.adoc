@@ -16,9 +16,9 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 Código de garantías democráticas y colaboración democrática
 
-Este es el contrato social que todos los miembros del proyecto Decidim se comprometen a seguir.
+Este es el contrato social que todos los miembros de la comunidad Decidim se comprometen a seguir.
 
-El uso y desarrollo de la plataforma Decidim por parte de una institución o grupo social de cualquier tipo implica la aceptación total e integral del presente contrato social y su compromiso con el mismo.
+Al firmar este contrato social, cualquier persona, institución o grupo social de cualquier tipo, se compromete a cumplir con los principios aquí establecidos al utilizar, desarrollar y participar en la comunidad de Decidim.
 
 == _Software_ libre y contenido abierto
 
