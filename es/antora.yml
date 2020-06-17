@@ -1,0 +1,59 @@
+name: social-contract
+title: Contrato Social de Decidim
+version: master
+asciidoc:
+  attributes:
+    authors: Decidim Team
+    revdate: ~
+    description: >
+      Este documento define los principios que cualquier integrante del proyecto
+      Decidim (sea a título individual, colectivo o institucional) se compromete
+      a seguir: 1. Software libre y contenido abierto: Decidim siempre será
+      libre y abierto a la colaboración, sin obstáculos legales o legales para
+      su uso, copia y modificación. Para garantizar esto usamos licencias libres
+      para el código informático, el contenido (textos, imágenes, etc.) y para
+      los datos. Esto significa que Decidim siempres será auditable,
+      collaborable, transparente, re-apropiable y fiable, siendo esto esencial
+      para una infraestructura democrática. 2. El contenido de la participación
+      siempre será transparente, trazable e integral. Esto significa que todo el
+      contenido debe ser accesible para descarga, simpre debe quedar constancia
+      de qué pasó con cada propuesta realizada, quién o quienes la crearon, en
+      qué decisión fue incorporada o rechazada y porqué. El contenido debe
+      mostrarse sin ser manipulado, cualquier modificación (si es necesaria)
+      debe quedar registrada y debe ser accesible y auditable 3. La plataforma
+      ofrecerá igualdad de oportunidades de inicio a todos los objetos
+      participativos (propuestas, debates, etcétera) para que se puedan conocer,
+      debatir, comentar, evaluar o tratar sin que exista discriminación de
+      ningún tipo. 4. Las personas participantes deberán de poder preservar su
+      privacidad y datos personales al tiempo que sus derechos democráticos son
+      verificables. 5. La plataforma debe garantizar la calidad democrática, la
+      no discriminación y la igualdad de oportunidades para cada participante y
+      propuesta. 6. La plataforma debe cumplir con los estándares de
+      accesibilidad, su uso debe facilitar la integración de la participación
+      digital y presencial y las organizaciones que la utilicen deben de poner
+      en marcha sistemas de mediación digital y formación para la participación.
+    keywords: >
+      decidim, democracia participativa, software libre, código abierto, ciudades, organizaciones
+    page-lang: es@
+    page-subtitle: Código de garantías democráticas
+    page-editors: ~
+    page-contributors: >
+      Carol Romero, Arnau Monterde, Andrés Lucena, Antonio Calleja, Pablo Aragón
+      and Xabier E. Barandiaran
+    page-proofreaders: ~
+    page-participants: ~
+    page-translators: ~
+    page-history: >
+      Este documento fue originalmente desarrollado como contenido del convenio
+      de colaboración entre el Ayuntamiento de Barcelona y el consorcio de
+      ayuntamientos catalanes Localret, firmado en Barcelona el día 1 de Febrero
+      de 2017 y al que dicho día se adherieron los ayuntamientos de Hospitalet
+      de Llobregat, Terrassa, Sabadell, Badalona, Gavà y Sant Cugat del Vallès.
+      El título original de aquél convenio fue "Código de garantías
+      democrácticas y colaboración abierta". Más adelante el documento tomó el
+      título de "contrato social" y se extendió también a contratos públicos con
+      proveedores de servicios y desarrolladores de la plataforma y a la
+      comunidad Decidim en su conjunto.
+    page-zotero-id: ~
+nav:
+- modules/ROOT/nav.adoc
