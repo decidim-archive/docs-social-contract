@@ -1,17 +1,5 @@
 = Contracte Social de Decidim
-:experimental:
-:icons: font
-:page-partial:
-:source-highlighter: highlightjs
-
-ifndef::env-site,env-github[]
-include::_attributes.adoc[]
-endif::[]
-
-include::{partialsdir}/README.adoc[tag=metadata]
-
-// Start writing here
-
+include::decidim::partial$l10n.adoc[]
 
 Codi de garanties democràtiques i de col·laboració oberta
 

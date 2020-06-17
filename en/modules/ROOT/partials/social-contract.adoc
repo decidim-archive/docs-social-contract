@@ -1,19 +1,5 @@
-
-
 = Decidim's Social Contract
-:experimental:
-:icons: font
-:page-partial:
-:source-highlighter: highlightjs
-
-ifndef::env-site,env-github[]
-include::_attributes.adoc[]
-endif::[]
-
-include::{partialsdir}/README.adoc[tag=metadata]
-
-// Start writing here
-
+include::decidim::partial$l10n.adoc[]
 
 Code for democratic guarantees and open collaboration
 

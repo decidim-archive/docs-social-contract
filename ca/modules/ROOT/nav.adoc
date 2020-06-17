@@ -1,5 +1,1 @@
-// Add to the following lists cross references to all the pages you want to see
-// listed in the navigation menu for this document.
-* xref:social-contract.adoc[Contracte Social de Decidim]
-* xref:doc-info.adoc[_Informació del document_]
-* xref:contributing.adoc[_Criteris d'autoria i com participar en aquest document_]
+include::decidim::partial$nav-decidim.adoc[]

@@ -1,27 +1,58 @@
-# MANDATORY. Identifier of the document in URLs. Use '-' as word separator.
-# It can include letters, numbers and periods ( . ), but no other symbols.
-# Example: "my-awesome-doc" (quotes not needed)
 name: social-contract
-
-# MANDATORY. Title of the document as we want it to appear in docs.decidim.org
-# menus and navigation links. It's probably the same as README.adoc's
-# {doctitle} attribute.
-# Example: "My Awesome Document" (quotes not needed)
 title: Decidim’s Social Contract
-
-# MANDATORY. "en", "es" or "ca". If more than one revision of the document is
-# going to be shown, then append the revision as it appears in README.adoc's
-# {revnumber} attribute, e.g., "en/0.1" (quotes not needed).
-version: en
-
-# MANDATORY. First page to show when we visit this document in docs.decidim.org.
-# It must be "ROOT:" followed by a file present in modules/ROOT/pages/. See
-# https://docs.antora.org/antora/1.0/page/page-id/ to understand how Antora's
-# Page Ids work.
-start_page: ROOT:social-contract.adoc
-
-# MANDATORY. A list of Antora navigation files. You probably don't need to
-# change this field. See https://docs.antora.org/antora/1.0/navigation/
-# if you want to learn more about it.
-nav: 
+version: master
+asciidoc:
+  attributes:
+    authors: Decidim Team
+    revdate: ~
+    description: >
+      This document defines the principles that all members of the Decidim
+      project (individual, collective or institutional) are committed to follow.
+      1. Decidim will always remain free and open to collaboration, without
+      legal or technical obstacles for the use, copy and modification. To ensure
+      this we use a set of free licenses for the code, the content (text,
+      images, design, etc.) and data. This means that Decidim will always remain
+      auditable, collaborable, transparent, appropriable and trustworthy, all of
+      which is fundamental for a democratic infrastructure. 2. The content of
+      participation will always remain transparent, traceable and integral. This
+      means that all the content must be accessible and downloadable, it should
+      always be known what happens with each proposal, its origin, in which
+      result or decision is was incorporated or why it was rejected or left
+      behind, and the content needs to be displayed without been manipulated,
+      any modification (if required) must be registered and be accessible and
+      auditable. 3. Equal opportunities: “The platform will offer equal starting
+      opportunities to all participatory objects (proposals, debates, etc.) for
+      them to be viewed, discussed, commented, evaluated or treated without
+      discrimination of any kind” (direct quote from the contract). 4.
+      Participants must retain privacy of their personal data combined with
+      verification of their democratic rights. 5. Democratic quality and
+      guarantees: the platform must guarantee the democratic quality, the
+      non-discrimination and equal opportunities for each participant and
+      proposal. 6. Inclusiveness and multilayerness: the platform must comply
+      with accessibility standards, its use must favour the integration of
+      online and offline participation and organizations must deploy the means
+      for mediation and training of participants.
+    keywords: >
+      social contract, Decidim, participatory democracy, free software.
+    page-lang: en@
+    page-subtitle: Code of democratic guarantees
+    page-editors: ~
+    page-contributors: >
+      Carol Romero, Arnau Monterde, Andrés Lucena, Antonio Calleja, Pablo Aragón
+      and Xabier E. Barandiaran
+    page-proofreaders: ~
+    page-participants: ~
+    page-translators: ~
+    page-history: >
+      The core of this document was first prepared as the content of the
+      inter-institutional agreement that Barcelona City Council signed with
+      Localret consortia of Catalan city councils on February the 1st 2017. On
+      that day the following city council endorsed the agreement: L’Hospitalet
+      de Llobregat, Terrassa, Sabadell, Badalona, Gavà and Sant Cugat del
+      Vallès. The original title of this first agreement was "Code of democratic
+      guarantees and open collaboration". It was latter simply called "social
+      contract" and extended to public contracts with service providers and
+      developers of the platform and the to the Decidim community as a whole.
+    page-zotero-id: ~
+nav:
 - modules/ROOT/nav.adoc

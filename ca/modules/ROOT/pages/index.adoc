@@ -1,0 +1,6 @@
+= Contracte Social de Decidim
+include::decidim::partial$l10n.adoc[]
+
+include::decidim::partial$doc-info.adoc[tags=subtitle;summary;metadata]
+
+include::partial$social-contract.adoc[leveloffset=+1]
