@@ -1,4 +1,4 @@
-= Contrato social de Decidim
+= Contrato Social de Decidim
 include::decidim::partial$l10n.adoc[]
 
 include::decidim::partial$doc-info.adoc[tags=subtitle;summary;metadata]
