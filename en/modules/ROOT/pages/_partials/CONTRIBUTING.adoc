@@ -15,7 +15,7 @@ endif::[]
 ifndef::_public_repo_url[the public repository]
 and start contributing.
 Otherwise, you can contact us at hola@decidim.org.
-Please, have a look at our https://docs.decidim.org/docs-authoring/en/latest/index.html[Documentation Authoring and Publishing Guide].
+Please, have a look at our https://docs.decidim.org/docs-authoring/en/overview[Documentation Authoring and Publishing Guide].
 
 Your contributions may be of varying nature.
 The different authorship levels and criteria are stated below:
