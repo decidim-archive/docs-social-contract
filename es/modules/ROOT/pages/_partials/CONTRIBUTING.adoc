@@ -15,7 +15,7 @@ endif::[]
 ifndef::_public_repo_url[el repositorio público]
 y empezar a realizar contribuciones.
 Si no, puedes escribirnos a hola@decidim.org.
-Por favor, consulta nuestra https://docs.decidim.org/docs-authoring/es/latest/index.html[Guia de edición y publicación de documentación].
+Por favor, consulta nuestra https://docs.decidim.org/docs-authoring/en/overview/[ Guía para la elaboración y publicación de documentación (en inglés)].
 
 Las contribuciones pueden ser de naturaleza diversa.
 Los distintos niveles y criterios de autoría se detallan a continuación:
